@@ -8,6 +8,9 @@ Modern multi-page school website built with React + Vite, featuring admissions, 
 
 ## Website Preview
 
+### Full Homepage Screenshot
+![Al Mansoor School Homepage](public/readme/website-home-preview.png)
+
 ### About / Home Style
 ![About Page Header](src/assets/headers/about-header.jfif)
 
