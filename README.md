@@ -4,9 +4,7 @@ Modern multi-page school website built with React + Vite, featuring admissions, 
 
 ## Live Demo
 
-- GitHub Pages: `https://<your-github-username>.github.io/<your-repo-name>/`
-
-Replace `<your-github-username>` and `<your-repo-name>` with your real values after first publish.
+- GitHub Pages: `https://attamishwani.github.io/amcss/`
 
 ## Features
 

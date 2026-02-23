@@ -1,5 +1,6 @@
 {
-  "name": "projects",
+  "name": "amcss",
+  "homepage": "https://attamishwani.github.io/amcss/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
