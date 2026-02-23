@@ -1,0 +1,25 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#E9FFF0"/>
+  <rect x="80" y="520" width="1040" height="180" rx="26" fill="#BEE3C5"/>
+  <rect x="120" y="130" width="960" height="320" rx="28" fill="#FFFFFF" stroke="#A9D8B1" stroke-width="8"/>
+  <rect x="170" y="190" width="260" height="200" rx="16" fill="#D7F4DD"/>
+  <rect x="500" y="190" width="530" height="200" rx="16" fill="#E8F9EC"/>
+
+  <circle cx="560" cy="455" r="34" fill="#F4C7A1"/>
+  <rect x="518" y="489" width="84" height="112" rx="22" fill="#3CB371"/>
+  <rect x="525" y="598" width="24" height="72" rx="10" fill="#2E3A2F"/>
+  <rect x="567" y="598" width="24" height="72" rx="10" fill="#2E3A2F"/>
+
+  <circle cx="675" cy="455" r="32" fill="#F4C7A1"/>
+  <rect x="635" y="489" width="80" height="108" rx="22" fill="#42A5F5"/>
+  <rect x="641" y="595" width="24" height="72" rx="10" fill="#2E3A2F"/>
+  <rect x="681" y="595" width="24" height="72" rx="10" fill="#2E3A2F"/>
+
+  <circle cx="790" cy="455" r="33" fill="#F4C7A1"/>
+  <rect x="748" y="489" width="84" height="112" rx="22" fill="#FFB74D"/>
+  <rect x="755" y="598" width="24" height="72" rx="10" fill="#2E3A2F"/>
+  <rect x="797" y="598" width="24" height="72" rx="10" fill="#2E3A2F"/>
+
+  <text x="150" y="245" fill="#1D4D2D" font-size="42" font-family="Segoe UI, Arial" font-weight="700">Student Sports Day</text>
+  <text x="150" y="292" fill="#347447" font-size="27" font-family="Segoe UI, Arial">Healthy competition, teamwork, and leadership</text>
+</svg>

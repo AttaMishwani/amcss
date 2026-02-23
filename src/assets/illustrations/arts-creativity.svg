@@ -1,0 +1,22 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#FFF5E8"/>
+  <rect x="100" y="120" width="1000" height="580" rx="30" fill="#FFFFFF" stroke="#F2CCA0" stroke-width="8"/>
+  <rect x="170" y="180" width="380" height="300" rx="18" fill="#FFE8CC"/>
+  <rect x="610" y="180" width="420" height="300" rx="18" fill="#FFF0DA"/>
+
+  <circle cx="410" cy="548" r="35" fill="#F4C7A1"/>
+  <rect x="366" y="583" width="88" height="110" rx="22" fill="#FFA94D"/>
+  <rect x="373" y="692" width="24" height="58" rx="10" fill="#2F3542"/>
+  <rect x="414" y="692" width="24" height="58" rx="10" fill="#2F3542"/>
+
+  <circle cx="535" cy="548" r="35" fill="#F4C7A1"/>
+  <rect x="492" y="583" width="86" height="110" rx="22" fill="#4DABF7"/>
+  <rect x="499" y="692" width="24" height="58" rx="10" fill="#2F3542"/>
+  <rect x="538" y="692" width="24" height="58" rx="10" fill="#2F3542"/>
+
+  <rect x="650" y="520" width="320" height="24" rx="12" fill="#D48B45"/>
+  <rect x="650" y="560" width="220" height="24" rx="12" fill="#D48B45"/>
+
+  <text x="170" y="258" fill="#7A4B1E" font-size="40" font-family="Segoe UI, Arial" font-weight="700">Arts & Creativity</text>
+  <text x="170" y="304" fill="#996233" font-size="26" font-family="Segoe UI, Arial">Expression through drawing, color, and design</text>
+</svg>
