@@ -6,6 +6,23 @@ Modern multi-page school website built with React + Vite, featuring admissions, 
 
 - GitHub Pages: `https://attamishwani.github.io/amcss/`
 
+## Website Preview
+
+### About / Home Style
+![About Page Header](src/assets/headers/about-header.jfif)
+
+### Admissions
+![Admissions Page Header](src/assets/headers/admissions-header.jfif)
+
+### Events
+![Events Page Header](src/assets/headers/events-header.jfif)
+
+### Careers
+![Careers Page Header](src/assets/headers/careers-header.jfif)
+
+### Contact
+![Contact Page Header](src/assets/headers/contact-header.jfif)
+
 ## Features
 
 - Responsive pages: Home, About, Admissions, Events, Event Detail, Careers, Contact
